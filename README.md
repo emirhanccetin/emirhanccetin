@@ -1,17 +1,58 @@
-# 💫  Hakkımda:
-ben bir yazılım geliştirme öğrencisiyim masaüstü geliştirme ve siber güvenlik alanlarında kendimi geliştirmeye çalışıyorum
+<h1 align="center">Merhaba, Ben Emirhan 👋</h1>
+<h3 align="center">Bilişim Güvenliği Teknolojisi Öğrencisi | Siber Güvenlik & Yazılım Meraklısı</h3>
 
-
-## 🌐 Sosyal Medya:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emirhanccetin0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emirhanccetin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emirhancetin236@gmail.com) 
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-# 📊 GitHub:
-![](https://github-readme-stats.shion.dev/api?username=emirhanccetin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=emirhanccetin&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=emirhanccetin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Cyber+Security+Enthusiast;Junior+Security+Researcher;Software+Dev;CTF+Player" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=emirhanccetin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 Hakkımda
+
+- 🎓 **Isparta Uygulamalı Bilimler Üniversitesi** Bilişim Güvenliği Teknolojisi öğrencisiyim.
+- 🚀 Erken yaşlarda yazılımla başlayan teknoloji serüvenime, bugün **siber güvenlik** alanında kendimi geliştirerek devam ediyorum.
+- 🎯 Siber savunma, web güvenliği ve pratik laboratuvar senaryoları üzerine odaklanıyorum.
+- 🔬 **TryHackMe**, **HackTheBox** gibi platformlarda düzenli olarak CTF testleri ve pratikler çözüyorum.
+- 🤝 Siber güvenlik topluluklarında yer almayı ve sürekli öğrenmeyi hedefliyorum.
+
+---
+
+### 🛠️ Yetenekler & Araçlar
+
+#### 🔒 Siber Güvenlik & Network
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
+
+#### 💻 Yazılım & Geliştirme
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🏆 Platformlar & İstatistikler
+
+<p align="center">
+  <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=red" /></a>
+  <a href="https://hackthebox.com"><img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
+</p>
+
+<br />
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight&hide=html,css" />
+</div>
+
+---
+
+### 🌐 İletişim
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/emirhanccetin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:emirhancetin236@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
