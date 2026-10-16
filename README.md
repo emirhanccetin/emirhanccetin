@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba, Ben Emirhan 👋</h1>
-<h3 align="center">Bilişim Güvenliği Teknolojisi Öğrencisi | Siber Güvenlik & Yazılım Meraklısı</h3>
+<h3 align="center">Bilişim Güvenliği Teknolojisi Öğrencisi | Siber Güvenlik & Yazılım </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Cyber+Security+Enthusiast;Junior+Security+Researcher;Software+Dev;CTF+Player" alt="Typing SVG" />
@@ -44,7 +44,7 @@
 <br />
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Emirhancetin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight&hide=html,css" />
 </div>
 
