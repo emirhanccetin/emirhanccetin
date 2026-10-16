@@ -43,10 +43,7 @@
 
 <br />
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Emirhancetin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight&hide=html,css" />
-</div>
+
 
 ---
 
